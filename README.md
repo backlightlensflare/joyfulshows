@@ -1,5 +1,1 @@
-We are different!!! Or same
-<!---
-joyfulshows/joyfulshows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://cdn.discordapp.com/attachments/1253005847932571741/1393142563279470623/ezgif-6dfbc72c3d0633.gif?ex=6872189e&is=6870c71e&hm=0b2e4f9e230ba6dcc96423b3317847d7ea4fdce65591a75049d7e99dbe65ff71&)
